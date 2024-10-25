@@ -346,7 +346,7 @@ Mixes allow you to:
 
 In this example, we combined the behavior and styles of the `search-form` block and the `search-form` element from the `header` block.
 This approach allows us to set the external geometry and positioning in the `header__search-form` element, while the `search-form` block itself remains universal.
-As a result, we can use the block in any other environment, because it doesn't specify any padding. This is why we can call it independent.
+As a result, we can use the block in any other environment, because it doesn't specify any margin. This is why we can call it independent.
 
 ## File structure
 
